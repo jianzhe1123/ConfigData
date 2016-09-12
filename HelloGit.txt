@@ -3,3 +3,4 @@ Git is free software.
 Git is first altered.
 Git is second altered.
 Git is third altered.
+Git is fourth altered.
